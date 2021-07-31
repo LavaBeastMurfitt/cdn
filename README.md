@@ -1,2 +1,2 @@
 # cdn
-picgo
+picgo for easy markdown.
